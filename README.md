@@ -20,6 +20,8 @@ Time to build the level! in the included unity scene there are 2 spawn points, y
 
 FCH uses the tilemap system but you can use whatever you want to build the level, custom scripts are not supported though.
 
+Make sure to mark all art assets you used to be included in the asset bundle build
+
 Step 3. 
 
 Time to build!
